@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Albumus2</string>
+    <string name="albumus2">Albumus2</string>
+    <string name="todo">TODO</string>
+    <string name="choose_photo_1">choose photo 1</string>
+    <string name="choose_photo_2">choose photo 2</string>
+    <string name="_2bit">2bit</string>
+    <string name="exit">exit</string>
+    <string name="start">start</string>
+    <string name="join">join</string>
+    <string name="save">save</string>
+    <string name="saved_in_memory">Saved in memory.</string>
+    <string name="this_app_allows_you_to_create_a_collage_of_2_photos_in_portrait_mode">This app allows you to create a collage of 2 photos in portrait mode.</string>
+    <string name="select_your_photos_and_press_2bit_to_continue">Select your photos and press 2BIT to continue!</string>
+    <string name="photo_saved_at_bottom_of_gallery">Photo saved at bottom of gallery.</string>
+    <string name="press_save_and_image_will_appear_at_bottom_of_gallery">Press SAVE and image will appear at bottom of gallery.</string>
+    <string name="press_save_and_image_will_appear_in_pictures_album_bottom_of_gallery">Press SAVE and image will appear in Pictures album/bottom of Gallery.</string>
+    <string name="this_app_allows_you_to_create_a_collage_of_2_photos_in_portrait_mode_photos_must_be_of_the_same_size">This app allows you to create a collage of 2 photos in portrait mode. Photos must be of the same size.</string>
+    <string name="collage_will_appear_in_pictures_album_bottom_of_gallery">Collage will appear in Pictures album/bottom of gallery.</string>
+    <string name="collage_will_appear_in_pictures_album_bottom_of_gallery_once_you_press_save">Collage will appear in Pictures album/bottom of gallery once you press SAVE.</string>
+    <string name="enjoy">Enjoy!</string>
+    <string name="this_app_allows_you_to_create_a_collage_of_2_photos_in_portrait_landscape_mode">This app allows you to create a collage of 2 photos in portrait/landscape mode.</string>
+    <string name="next">next</string>
+    <string name="select_your_photos_and_press_next_to_continue">Select your photos and press NEXT to continue!</string>
+
+</resources>
